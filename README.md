@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Life is short. I love Python.
 
-Life is short. I love Python.
+
 
 <!--
 **zhaowanpeng/zhaowanpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
