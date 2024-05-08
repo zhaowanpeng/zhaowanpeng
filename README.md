@@ -1,4 +1,4 @@
-### Hi there 👋 Life is short. I love Python.
+### 👋 Life is short. I love Python.
 
 
 
