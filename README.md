@@ -1,5 +1,7 @@
 ### 👋 Life is short. I love Python.
 
+###  Sorry. I love Go. Now
+
 
 
 <!--
